@@ -1,0 +1,22 @@
+canvas {
+	border: ridge;
+	border-width: 10;
+	border-color: black;
+	background-color: white;
+}
+
+#head_info {
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+#heading {
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+body{
+	background-image: url(avenger_bg.jpg);
+	background-size: cover;
+}
